@@ -1,5 +1,5 @@
 {
-  "name": "plantsy-client",
+  "name": "c",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5555",
@@ -29,5 +29,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
